@@ -1,0 +1,29 @@
+h1 h2{
+	font-family: 'Oswald', sans-serif;
+}
+body{
+	text-align: center;
+	width: 500px;
+	height: 500px;
+}
+.main{
+	font-family: 'Inconsolata', monospace;
+}
+.left{
+float: left;
+	width: 47%;
+	margin-right: 3%;
+	height: 100%;
+
+}
+.right{float: left;
+	width: 50%;
+	height: 100%;
+
+}
+button{
+height: 50px;
+background-color: white;
+border-width: 2px;
+border-style: normal;
+}

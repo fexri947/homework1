@@ -1,0 +1,21 @@
+.footer div{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin-left: 10px;
+	border: 3px black;
+	border-style: outset;
+	background-color: white;
+}
+body{
+	color: white;
+	background-color: grey;
+	text-align: center;
+}
+.header p{
+	margin:0px 150px;
+
+}
+.middle{
+	margin:0px 60px;
+}
